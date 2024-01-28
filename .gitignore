@@ -1,0 +1,8 @@
+venv
+build
+dist
+*.idea
+*.pyc
+*.log
+*.json
+*.xlsx
